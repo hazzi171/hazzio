@@ -80,12 +80,12 @@ body {
 .hero_area .slick_main .main-img-box {
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 75vh;
   width: 100%;
 }
 
 .hero_area .slick_main .main-img-box.b1 {
-  background-image: url(../images/);
+  background-image: url(../images/hair.PNG);
 }
 
 .hero_area .slick_main .main-img-box.b2 {
@@ -97,7 +97,7 @@ body {
 }
 
 .sub_page .hero_area {
-  height: 75;
+  height: auto;
   background-position: top right;
 }
 
