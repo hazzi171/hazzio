@@ -52,7 +52,7 @@ body {
 .hero_area {
   height: 100vh;
   position: relative;
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url(../images/img23.jpg);
   background-size: cover;
   background-position: right;
   background-repeat: no-repeat;
@@ -85,15 +85,15 @@ body {
 }
 
 .hero_area .slick_main .main-img-box.b1 {
-  background-image: url(../images/a-1.jpg);
+  background-image: url(../images/img34.jpeg);
 }
 
 .hero_area .slick_main .main-img-box.b2 {
-  background-image: url(../images/hero-side-bg2.jpg);
+  background-image: url(../images/main\ page.jpg);
 }
 
 .hero_area .slick_main .main-img-box.b3 {
-  background-image: url(../images/hero-side-bg.jpg);
+  background-image: url(../images/blacbloc.png);
 }
 
 .sub_page .hero_area {
